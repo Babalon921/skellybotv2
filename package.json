@@ -1,0 +1,36 @@
+{
+  "name": "mixilate",
+  "version": "1.0.0",
+  "description": "adminsongbot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babalon921/Mixilate.git"
+  },
+  "author": "Babalon921",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babalon921/Mixilate/issues"
+  },
+  "homepage": "https://github.com/Babalon921/Mixilate#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "easy-discord-music": "^0.1.8",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "jquery": "^3.4.1",
+    "m3u8stream": "^0.6.4",
+    "mongoose": "^5.8.9",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7",
+    "parse-time": "^0.1.4",
+    "steamapi": "^2.0.7",
+    "twitter": "^1.7.1",
+    "xmlhttprequest": "^1.8.0",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^1.0.6"
+  }
+}
